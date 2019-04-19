@@ -18,3 +18,6 @@ We’re also here to do more than just talk about the psychology of disasters. T
 
 Official Course Calendar Description
 ======
+Focuses on developing an understanding of the impact of different disasters on individuals, communities and specific populations. Short and long term intervention strategies for social psychological preparation and support will be presented and assessed.
+
+Cross-Listing: AP/ADMS 3706 3.00
