@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-To download my CV, please [click here](https://www.dropbox.com/s/km7hkogsx291yyo/KennedyCV.pdf?dl=0).
+To download my CV, please [click here](https://www.dropbox.com/s/03bsxsb92lvhuxs/KennedyCV.pdf?dl=0).
