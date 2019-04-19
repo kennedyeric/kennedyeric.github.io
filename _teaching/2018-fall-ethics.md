@@ -19,4 +19,6 @@ Throughout our time together, we have three objectives:
 
 Official Course Calendar Description
 ======
-Explores ethical uncertainties associated with disasters and emergencies and develops a basic understanding of ethical decision-making processes and moral reasoning. Also explores the moral imperatives associated with emergency management in a variety of contexts, locally and globally. Emphasis is on applied ethics, development of moral competence in response to issues, and implications for socially responsive environmental and disaster management. Prerequisites: AP/ADMS 1000 3.00 and AP/ADMS/DEMS 2700 3.00. Cross-Listing:: AP/ADMS 3707 3.00
+Explores ethical uncertainties associated with disasters and emergencies and develops a basic understanding of ethical decision-making processes and moral reasoning. Also explores the moral imperatives associated with emergency management in a variety of contexts, locally and globally. Emphasis is on applied ethics, development of moral competence in response to issues, and implications for socially responsive environmental and disaster management.
+
+Prerequisites: AP/ADMS 1000 3.00 and AP/ADMS/DEMS 2700 3.00. Cross-Listing:: AP/ADMS 3707 3.00
