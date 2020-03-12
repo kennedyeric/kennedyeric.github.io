@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor at York University in their Disaster and Emergency Management program, where my work focuses on wildfire. I run the [CEMPPR Lab](https://www.dropbox.com/s/l0puj36qk0lfsqt/CEMPPR%20Lab%20Overview.pdf?dl=0) (Collaboration on Emergency Management, Policy, and Preparedness Research), where we pursue four lines of research:
+I'm an Assistant Professor at York University in the [Disaster and Emergency Management program](https://sas.laps.yorku.ca/bdem/), where my work focuses on wildfire. I run the [CEMPPR Lab](https://www.dropbox.com/s/l0puj36qk0lfsqt/CEMPPR%20Lab%20Overview.pdf?dl=0) (Collaboration on Emergency Management, Policy, and Preparedness Research), where we pursue four lines of research:
 
 (1) How responders, emergency managers, and the public make high-stakes decisions under uncertainty
 
